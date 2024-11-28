@@ -205,7 +205,7 @@ def randomize_cases(passphrase):
     Member - Zhandong
     Randomizes the case of each character in the given passphrase, returning a new passphrase with randomized character cases. 
     '''
-    # This will return passphrase if it is set tot None or Blank
+    # This will return passphrase if it is set to None or Blank
     if not passphrase:  
         return passphrase  
 
