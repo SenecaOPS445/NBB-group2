@@ -1,0 +1,25 @@
+
+--------------------------------------------------
+group2
+--------------------------------------------------
+Python Version: 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910]
+Ran on 2024-12-02 12:37:56.961069
+Git commit used: commit e22b979e0c93cab356b2794cf8b9ea7369608c1c
+Merge: 7b9599a a23c612
+Author: ZThompson1 <zacharygthompson@gmail.com>
+Date:   Wed Nov 27 19:50:49 2024 -0500
+
+    Merge pull request #6 from SenecaOPS445/Final-Copy
+    
+    Final copy
+
+
+--------------------------------------------------
+Relevant, useful, shows ambition           3.0/  3
+Comments and Documentation                 2.0/  5
+Adequate commits with good messages        1.0/  5
+No redundant code, variable names          1.0/  2
+
+--------------------------------------------------
+Total: 7.0/15
+FEEDBACK:
